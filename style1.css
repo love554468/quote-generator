@@ -1,0 +1,10 @@
+body
+{
+	font-family:'Courier New'
+}
+div.quoteDisplay
+{
+  background-color: #1abc9c;
+  height: 700px;
+  width: 300px
+}
